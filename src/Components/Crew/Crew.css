@@ -1,0 +1,28 @@
+.crew-back{
+    width:100%;
+    height: 100vh;
+    background-image: url(../../assets/crew-back.png);
+    background-size:cover;
+}
+.crew-main{
+    /* width: 80%; */
+    height: 73vh;
+    margin-top: 80px;
+    display: flex;
+    padding-left: 140px;
+}
+.crew-links a{
+    width: 15px;
+    height: 15px;
+    background-color: #FFFF;
+    opacity: 17.44%;
+    border-radius: 50%;
+}
+.crew-links a:hover{
+    background-color: #FFFF;
+    opacity: 40%;
+}
+.crew-links a.active{
+    background-color: #FFFF;
+    opacity: 100%;
+}

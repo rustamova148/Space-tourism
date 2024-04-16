@@ -1,0 +1,29 @@
+.dest-image p {
+  font-family: Barlow Condensed;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 4.724999904632568px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+.dest-image p span{
+    color:#4E4C4C;
+    font-family: Barlow Condensed;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 33.6px;
+    letter-spacing: 4.724999904632568px;
+    text-align: left;
+    margin-right: 5px;
+}
+.dest-links a{
+    border-bottom: 4px solid transparent;
+}
+.dest-links a:hover{
+    border-bottom-color: #7A7B80;
+}
+.dest-links a.active{
+    border-bottom-color: white;
+}

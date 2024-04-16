@@ -1,0 +1,10 @@
+.technology-back{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../assets/tech-back.jpg);
+}
+.tech-main{
+    height: 76vh;
+    margin-top: 65px;
+    padding-left: 135px;
+}
